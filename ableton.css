@@ -1,0 +1,354 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+ 
+.navbar{
+    display: flex;
+    gap: 1.7rem;
+    text-align: center;
+}
+ 
+.sub_nav{
+    font-weight: 500;
+    font-size: large;
+    margin-top: 0.8rem;
+    margin-bottom: 0.4rem;
+    text-decoration: none;
+    color: black;
+}
+ 
+.sub_nav_try{
+   color: blue;
+   font-weight: 500;
+   font-size: large;
+   margin-top: 0.8rem;
+   margin-bottom: 0.4rem;
+   text-decoration: none;
+   margin-left: 17rem;
+}
+ 
+.right_nav{
+    display: inline-flex;
+    gap: 1.7rem;
+}
+ 
+.navbar2{ 
+    display: flex;
+    gap: 1.7rem;
+}
+    
+.about{
+    font-weight: 500;
+    font-size: small;
+    margin-top: 0.8rem;
+    margin-bottom: 0.4rem;
+    text-decoration: none;
+    color:orange;
+    padding-left: 1.5rem;
+}
+ 
+.sub_nav2{
+    font-weight: 500;
+    font-size: small;
+    margin-top: 0.8rem;
+    margin-bottom: 0.4rem;
+    text-decoration: none;
+    color: black;
+}
+ 
+.logo_start{
+height: 3.4rem;
+width: 3.7rem;
+margin-left: 1.25rem;
+}
+ 
+.photo{
+    height: 30rem;
+    width: 68.5rem;
+    object-fit: cover;
+    padding:5rem ;
+}
+ 
+.links{
+    color: blue;
+    text-decoration: none;
+}
+ 
+.text{
+    margin-left: 20rem;
+    margin-right: 20rem;
+}
+ 
+.sub-text{
+    margin-left: 20rem;
+    margin-right: 20rem;
+    font-weight: 400;
+}
+ 
+ 
+.end_photo{
+    width: fit-content;
+    display: block;
+    width: 50%;
+}
+ 
+.divs{  
+    align-items: stretch;
+    display: flex;
+    justify-content:stretch;
+    padding:5rem;
+    height: 30rem;
+    width: 68.5rem;
+    overflow: hidden;
+}
+ 
+.box{
+    background-color: #b1c5ff;
+    width: 50%;
+}
+ 
+.content{
+    padding-top: 22%;
+    padding-left: 23%;
+    padding-right: 15%;
+    font-size:x-large;
+}
+ 
+.big-box{ 
+    display: flex;
+    height: 42rem;
+    width: 77rem;
+    padding: 9px;
+    justify-content: space-around;
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+}
+ 
+.box01{
+    background: linear-gradient(to right, 
+    rgba(255, 255, 255, 0.43) 43%, 
+    rgba(255, 255, 255, 0.43) 43%, 
+    rgba(0, 128, 128, 1) 43%,
+    rgba(0, 128, 128, 1) 100%);
+}
+ 
+.sub-image1{
+    object-fit: cover;
+    padding-top: 14%;
+    height: 500px;
+    width: 600px;
+}
+ 
+.sub-image2{
+    justify-content: center;
+    align-items: center;
+    padding-top: 43%;
+    height: 288px;
+    width: 410px;
+}
+ 
+.div_back{
+ 
+    background: linear-gradient(to right, 
+    white 0%, 
+    white 15%, 
+    #a03786 15%, 
+    #a03786 85%, 
+    white 85%, 
+    white 100%);
+    display: flex;
+    height: 42rem;
+    width: 77rem;
+    padding: 9px;
+    justify-content: space-around;
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+}
+ 
+.sub-image3{
+    object-fit: cover;
+    padding-top: 27%;
+    height: 490px;
+    padding-right: 75px;
+    width: 600px;
+}
+ 
+ 
+.dif_div{
+    background: linear-gradient(to right, 
+    #256196 0%,
+    #256196 60%, 
+    white 60%, 
+    white 100%);
+    display: flex;
+    height: 56rem;
+    width: 77rem;
+    padding: 9px;
+    justify-content: space-around;
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+}
+
+.inner_div{
+    display: -ms-inline-grid;
+}
+
+.small-img1{
+    height: 260px;
+    width: 400px;
+    padding-top: 16%;
+    padding-left: 70px;
+}
+ 
+.small-img2{
+    height: 270px;
+    width: 400px;
+    padding-top: 25%;
+    padding-left: 70px;
+}
+ 
+.vedio{
+    height: 25rem;
+    width: 38rem;
+    margin-left: 20rem;
+    margin-right: 20rem;
+    margin-top: 4rem;
+}
+ 
+.caption{
+    font-size: smaller;
+    font-weight:600 ;
+    margin-bottom: 4rem;
+    margin-left: 20rem; 
+}
+ 
+.footer{
+    margin-left: 5rem ;
+    margin-right: 5rem;
+}
+ 
+.footer_heading{
+    font-weight: bolder;
+    font-size:50px;
+    margin-top: 5rem;
+}
+ 
+.foot1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 4rem; 
+}
+ 
+.foot2{
+    display: flex;
+    justify-content: space-between;
+    margin-right:43.5%;
+    margin-top: 3rem; 
+}
+ 
+.end1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    padding: 10px;
+    margin-bottom: 5rem;
+    margin-top: 3rem;
+}
+
+.end2{
+    display: flex;
+    gap: 20px; 
+}
+ 
+ 
+.last_content{
+    font-size: small;
+    font-weight: bold;
+    padding-top: 8%;
+    white-space: nowrap; 
+    color: black;
+    text-decoration: none;
+}
+ 
+.lastest_content{
+    font-size: small;
+    font-weight: bold;
+    padding-top: 8%;
+    white-space: nowrap; 
+    margin-top: -5%;
+    display: flex;
+}
+
+.part1{
+    display:-moz-inline-grid;
+    font-size: medium;
+    font-weight: 480;
+}
+ 
+.end_heading{
+   font-size: medium;
+   font-weight: 630;
+}
+ 
+.logo{
+    height: 1rem;
+    width: 2.5rem;
+}
+ 
+.placeholder{
+    font-size: medium;
+    height: 2.35rem;
+    width: 19rem;
+    margin-top:1rem;
+    padding-left: 1rem;
+    margin-right: -0.5rem;
+    border: none;
+    background-color:#ededed;
+    color:#4a4949;
+    font-weight: 600;
+}
+ 
+.scrollbar{
+    display: inline-flex;
+    margin-top: 1rem;
+    gap: 0.25rem;
+    
+}
+ 
+.sub_scroll1{
+    background-color:#ededed;
+    font-size: medium;
+    font-weight: 480;
+    width: 7rem;
+    border: none;
+}
+ 
+.sub_scroll2{
+    border: none;
+    background-color:#ededed;
+    font-size: medium;
+    font-weight: 480;
+    width:13rem ;
+}
+ 
+.icon{
+    display: inline-flex;
+    margin-top: 1rem;
+}
+ 
+.icons{
+   height: 2.5rem;
+   width:2.5rem ;
+}
+ 
+.button{
+    color: white;
+    background-color: blue;
+    font-weight: bold;
+    font-size: medium;
+    height: 2.5rem;
+    width: 6.5rem;
+    margin-top:1rem;
+    text-align: center;
+    border: none;
+}
