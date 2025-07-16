@@ -9,9 +9,8 @@ A fully responsive **frontend clone** of the official [Ableton](https://www.able
 ```bash
 ableton-clone-html-css/
 │
-├── index.html # Main HTML file (Home page)
+├── abelton.html # Main HTML file (Home page)
 ├── ableton.css # All styles for the clone
-├── images/ # (Optional) Local images if used
 └── README.md # Project description
 ```
 
@@ -51,7 +50,6 @@ Just open index.html with your browser.
 
 ### 🤝 Credits
 Inspired by Ableton official website
-Images from Pexels
 
 ---
 
