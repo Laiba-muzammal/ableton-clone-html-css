@@ -6,7 +6,7 @@ A fully responsive **frontend clone** of the official [Ableton](https://www.able
 
 ## 🌐 Live Preview
 
-![Ableton Clone Preview](preview.jpeg)
+![Ableton Clone Preview](abelton.jpeg)
 
 ---
 
