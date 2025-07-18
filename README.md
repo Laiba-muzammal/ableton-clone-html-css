@@ -4,7 +4,7 @@ A fully responsive **frontend clone** of the official [Ableton](https://www.able
 
 ---
 
-## 🔗 Live Link: 
+## 🔗 Live Link
 https://magical-bunny-63def8.netlify.app/
 
 ---
